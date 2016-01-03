@@ -1,0 +1,29 @@
+{
+  "name": "shift-register",
+  "version": "1.0.0",
+  "description": "evented shift register control!",
+  "main": "shift_register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpickett/shift-register.git"
+  },
+  "keywords": [
+    "shift",
+    "register",
+    "\u0016NTE74HC165"
+  ],
+  "author": "Griffith T. Pickett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tpickett/shift-register/issues"
+  },
+  "homepage": "https://github.com/tpickett/shift-register#readme",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "lodash": "^3.10.1",
+    "onoff": "^1.0.3"
+  }
+}
